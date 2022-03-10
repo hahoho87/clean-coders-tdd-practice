@@ -1,0 +1,54 @@
+# Eclipse
+.classpath
+.project
+.settings/
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.sts4-cache
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored �Eclipse launch configurations�
+*.launch
+
+# CodeT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+# Maven
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Java
+*.class
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
