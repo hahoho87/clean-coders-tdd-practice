@@ -1,4 +1,4 @@
-package com.hahoho87;
+package com.hahoho87.movie;
 
 public class Movie {
 

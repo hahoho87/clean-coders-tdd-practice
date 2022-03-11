@@ -1,5 +1,6 @@
-package com.hahoho87;
+package com.hahoho87.movie;
 
+import com.hahoho87.movie.Movie;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
